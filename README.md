@@ -1,1 +1,1 @@
-# rest-api-template
+# Reskill with go fundamentals
