@@ -29,7 +29,6 @@ func (h Nockdown) Live(string string) {
 func Dial(p Phone, h Home) {
 	p.Call("+1 123 456 789")
 	h.Live("")
-
 }
 
 func main() {
